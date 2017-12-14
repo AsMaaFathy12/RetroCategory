@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.asmaa.retrocategory.MainActivity">
+
+    <ListView
+        android:id="@+id/list_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f9f6ef"
+        android:divider="#3c87ef"
+        android:dividerHeight="1.5dp"
+        android:listSelector="#bed5f5"
+
+
+        >
+
+    </ListView>
+
+</RelativeLayout>
